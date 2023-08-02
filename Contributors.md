@@ -224,6 +224,7 @@ x# Contributors
 - [Gbemisola Adekoya](https://github.com/thegbemisola)
 - [5.H.4.D.0.W](https://github.com/QuintusJoyal) 🖖
 - [MAHESH KUMAR 🙄](https://github.com/krmahi)
+- [Muhammad Zidan Fatonie](https://github.com/mzf11125)👋
 - [Gifty Afful](https://github.com/giftycad)
 - [Yali Kagan](https://github.com/yalikagan1)
 - [Shuvajit Mahanta](https://github.com/Shuva15)🙏
