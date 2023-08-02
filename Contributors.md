@@ -6680,6 +6680,7 @@ Aadi Deshmukh
 - [sholeh](https://github.com/sholeh007)
 - [Penghang Yu](https://github.com/demonph10)
 - Meeeees
+- [Muhammad Zidan Fatonie](https://github.com/mzf11125)
 - [Ebrahim Haji](https://github.com/ebrahim95)
 - [Chris Dowd](https://github.com/ChrisDowdDeveloper)
 - [Mees](https://github.com/Meeeees)
